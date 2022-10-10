@@ -40,7 +40,7 @@ namespace Game_Snake__Jogo_da_cobrinha_
             Tela = panel;
             Frame = timer;
             Pontos = label;
-            offScreenBitmap = new Bitmap(528, 528);
+            offScreenBitmap = new Bitmap(428, 428);
             Snake = new Snake();
             Comida = new Comida();
             Direction = Keys.Left;

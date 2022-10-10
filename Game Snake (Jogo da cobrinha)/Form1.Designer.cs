@@ -45,7 +45,7 @@
             this.Tela.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.Tela.Location = new System.Drawing.Point(8, 65);
             this.Tela.Name = "Tela";
-            this.Tela.Size = new System.Drawing.Size(528, 528);
+            this.Tela.Size = new System.Drawing.Size(428, 428);
             this.Tela.TabIndex = 0;
             // 
             // Pontos
@@ -53,7 +53,7 @@
             this.Pontos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Pontos.Location = new System.Drawing.Point(8, 29);
             this.Pontos.Name = "Pontos";
-            this.Pontos.Size = new System.Drawing.Size(528, 34);
+            this.Pontos.Size = new System.Drawing.Size(428, 34);
             this.Pontos.TabIndex = 1;
             this.Pontos.Text = "PONTOS: 0";
             this.Pontos.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -65,7 +65,7 @@
             this.menu});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(541, 25);
+            this.menuStrip1.Size = new System.Drawing.Size(441, 25);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -81,14 +81,14 @@
             // iniciarJogoToolStripMenuItem
             // 
             this.iniciarJogoToolStripMenuItem.Name = "iniciarJogoToolStripMenuItem";
-            this.iniciarJogoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iniciarJogoToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.iniciarJogoToolStripMenuItem.Text = "Iniciar jogo";
             this.iniciarJogoToolStripMenuItem.Click += new System.EventHandler(this.iniciarJogoToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(146, 22);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(541, 598);
+            this.ClientSize = new System.Drawing.Size(441, 498);
             this.Controls.Add(this.Pontos);
             this.Controls.Add(this.Tela);
             this.Controls.Add(this.menuStrip1);
