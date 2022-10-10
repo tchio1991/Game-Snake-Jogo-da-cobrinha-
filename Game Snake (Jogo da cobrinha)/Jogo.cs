@@ -40,7 +40,7 @@ namespace Game_Snake__Jogo_da_cobrinha_
             Tela = panel;
             Frame = timer;
             Pontos = label;
-            offScreenBitmap = new Bitmap(428, 428);
+            offScreenBitmap = new Bitmap(528, 528);
             Snake = new Snake();
             Comida = new Comida();
             Direction = Keys.Left;
@@ -94,10 +94,10 @@ namespace Game_Snake__Jogo_da_cobrinha_
             {
                 if(i == 0)
                 {
-                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#412a9c")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
+                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#262324")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
                 } else
                 {
-                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#1b66ff")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
+                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#f1a20b")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
                 }
 
                 if ((Snake.Location[i] == Snake.Location[0]) && (i > 0))
