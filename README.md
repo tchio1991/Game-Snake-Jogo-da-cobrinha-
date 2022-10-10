@@ -11,3 +11,5 @@
 ![Imagem-2](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/blob/master/imagens%20do%20jogo/image2.png)
 
 ![Imagem-3](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/blob/master/imagens%20do%20jogo/image3.png)
+
+![Imagem-4](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/blob/master/imagens%20do%20jogo/image4.png) 
