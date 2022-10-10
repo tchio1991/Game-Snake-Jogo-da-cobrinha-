@@ -6,7 +6,7 @@
 
 ### Imagens do jogo no visual studio
 
-![Imagem-1](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/tree/master/imagens%20do%20jogo)
+![Imagem-1](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/blob/master/imagens%20do%20jogo/image1.png)
 
 ![Imagem-2](https://github.com/tchio1991/Game-Snake-Jogo-da-cobrinha-/blob/master/imagens%20do%20jogo/image2.png)
 
